@@ -24,6 +24,21 @@ This is a pytorch-lighning implementation of paper [NeRF](https://www.matthewtan
 
 ## 3. Results
 
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/chair.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/chair_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/drums.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/drums_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/ficus.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/ficus_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/hotdog.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/hotdog_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/lego.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/lego_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/mic.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/mic_depth.gif)
+\n
+![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/ship.gif) \t ![Alt Text](https://github.com/Jd8111997/NeRF/blob/main/Results/ship_depth.gif)
+
+
 ## 4. References
 - https://www.matthewtancik.com/nerf
 - https://github.com/bmild/nerf
