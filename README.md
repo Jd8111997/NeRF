@@ -23,3 +23,12 @@ This is a pytorch-lighning implementation of paper [NeRF](https://www.matthewtan
 - It will generate a recursive folders in this fashion ```results/{dataset_name}/{scene_name}``` to store the final visualizations.
 
 ## 3. Results
+
+## 4. References
+- https://www.matthewtancik.com/nerf
+- https://github.com/bmild/nerf
+- https://github.com/kwea123/nerf_pl
+- https://github.com/krrish94/nerf-pytorch
+- https://github.com/yenchenlin/nerf-pytorch/
+- https://pyimagesearch.com/2021/11/17/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-2/
+- https://dellaert.github.io/NeRF/
